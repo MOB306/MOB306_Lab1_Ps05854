@@ -1,0 +1,3 @@
+rootProject.name = 'MOB306_Lab1_PS05854'
+
+include ':app'
